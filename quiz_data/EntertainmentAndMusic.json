@@ -1,0 +1,365 @@
+{
+    "response_code":0,
+    "results":[
+        {
+            "category":"Entertainment: Music",
+            "type":"multiple",
+            "difficulty":"easy",
+            "question":"What is the best selling album of all time from 1976 to 2018?",
+            "correct_answer":"Thriller",
+            "incorrect_answers":[
+                "Back in Black",
+                "Abbey Road",
+                "The Dark Side of the Moon"
+            ]
+        },
+        {
+            "category":"Entertainment: Music",
+            "type":"multiple",
+            "difficulty":"easy",
+            "question":"Where does the Mac part of the name Fleetwood Mac come from?",
+            "correct_answer":"John McVie",
+            "incorrect_answers":[
+                "Christine McVie",
+                "Mac McAnally",
+                "David Tennant"
+            ]
+        },
+        {
+            "category":"Entertainment: Music",
+            "type":"multiple",
+            "difficulty":"easy",
+            "question":"What is the name of the album released in 2014 by American band Maroon 5?",
+            "correct_answer":"V",
+            "incorrect_answers":[
+                "X",
+                "III",
+                "IV"
+            ]
+        },
+        {
+            "category":"Entertainment: Music",
+            "type":"multiple",
+            "difficulty":"easy",
+            "question":"According to a song by Belinda Carlisle, Heaven is a place on what?",
+            "correct_answer":"Earth",
+            "incorrect_answers":[
+                "Venus",
+                "Mars",
+                "Uranus"
+            ]
+        },
+        {
+            "category":"Entertainment: Music",
+            "type":"multiple",
+            "difficulty":"easy",
+            "question":"Kanye West&#039;s &quot;Gold Digger&quot; featured which Oscar-winning actor?",
+            "correct_answer":"Jamie Foxx",
+            "incorrect_answers":[
+                "Alec Baldwin",
+                "Dwayne Johnson",
+                " Bruce Willis"
+            ]
+        },
+        {
+            "category":"Entertainment: Music",
+            "type":"multiple",
+            "difficulty":"easy",
+            "question":"What was Daft Punk&#039;s first studio album?",
+            "correct_answer":"Homework",
+            "incorrect_answers":[
+                "Discovery",
+                "Random Access Memories",
+                "Human After All"
+            ]
+        },
+        {
+            "category":"Entertainment: Music",
+            "type":"multiple",
+            "difficulty":"easy",
+            "question":"When was Gangnam Style uploaded to YouTube?",
+            "correct_answer":"2012",
+            "incorrect_answers":[
+                "2013",
+                "2014",
+                "2011"
+            ]
+        },
+        {
+            "category":"Entertainment: Music",
+            "type":"multiple",
+            "difficulty":"easy",
+            "question":"Which classical composer wrote the &quot;Moonlight Sonata&quot;?",
+            "correct_answer":"Ludvig Van Beethoven",
+            "incorrect_answers":[
+                "Chief Keef",
+                "Wolfgang Amadeus Mozart",
+                "Johannes Brahms"
+            ]
+        },
+        {
+            "category":"Entertainment: Music",
+            "type":"multiple",
+            "difficulty":"easy",
+            "question":"Which of the following songs did Elton John perform following Princess Diane&#039;s passing?",
+            "correct_answer":"Candles in the Wind",
+            "incorrect_answers":[
+                "I Guess That&#039;s Why They Call It The Blues",
+                "Your Song",
+                "Island Girl"
+            ]
+        },
+        {
+            "category":"Entertainment: Music",
+            "type":"multiple",
+            "difficulty":"easy",
+            "question":"&quot;Grande Valse&quot; is a phrase from the song &quot;Gran Vals&quot;. What is that song segment known as?",
+            "correct_answer":"Nokia Tune",
+            "incorrect_answers":[
+                "Hello Moto [Motorola Ringtone]",
+                "Droid Ringtone",
+                "Microsoft Ringtone"
+            ]
+        },
+        {
+            "category":"Entertainment: Music",
+            "type":"multiple",
+            "difficulty":"medium",
+            "question":"Who had a 1973 hit with the song &#039;Hocus Pocus&#039;?",
+            "correct_answer":"Focus",
+            "incorrect_answers":[
+                "Pilot",
+                "Rush",
+                "AC\/DC"
+            ]
+        },
+        {
+            "category":"Entertainment: Music",
+            "type":"multiple",
+            "difficulty":"medium",
+            "question":"Who is the artist of the recent new album the Uncanny Valley?",
+            "correct_answer":"Perturbator",
+            "incorrect_answers":[
+                "Carpenter Brut",
+                "GOST",
+                "Dan Terminus "
+            ]
+        },
+        {
+            "category":"Entertainment: Music",
+            "type":"multiple",
+            "difficulty":"medium",
+            "question":"Which of these artists do NOT originate from France?",
+            "correct_answer":"The Chemical Brothers",
+            "incorrect_answers":[
+                "Air",
+                "Justice",
+                "Daft Punk"
+            ]
+        },
+        {
+            "category":"Entertainment: Music",
+            "type":"multiple",
+            "difficulty":"medium",
+            "question":"In which city did American rap producer DJ Khaled originate from?",
+            "correct_answer":"Miami",
+            "incorrect_answers":[
+                "New York",
+                "Detroit",
+                "Atlanta"
+            ]
+        },
+        {
+            "category":"Entertainment: Music",
+            "type":"multiple",
+            "difficulty":"medium",
+            "question":"Which of these is NOT the name of an album released by American rapper Viper?",
+            "correct_answer":"The Life of Pablo",
+            "incorrect_answers":[
+                "Kill Urself My Man",
+                "You&#039;ll Cowards Don&#039;t Even Smoke Crack",
+                "Yo Wife Handcuffin&#039; Me"
+            ]
+        },
+        {
+            "category":"Entertainment: Music",
+            "type":"multiple",
+            "difficulty":"medium",
+            "question":"Which of these is the name of an American psychedelic rock band formed in 2002 by Benjamin Goldwasser and Andrew VanWyngarden?",
+            "correct_answer":"MGMT",
+            "incorrect_answers":[
+                "MSTRKRFT",
+                "STRFKR",
+                "SBTRKT"
+            ]
+        },
+        {
+            "category":"Entertainment: Music",
+            "type":"multiple",
+            "difficulty":"medium",
+            "question":"African-American performer Sammy Davis Jr. was known for losing which part of his body in a car accident?",
+            "correct_answer":"Left Eye",
+            "incorrect_answers":[
+                "Right Ear",
+                "Right Middle Finger",
+                "Nose"
+            ]
+        },
+        {
+            "category":"Entertainment: Music",
+            "type":"multiple",
+            "difficulty":"medium",
+            "question":"Which of these bands was a featuring artist in Compton rapper Kendrick Lamar&#039;s 2017 album, &quot;DAMN.&quot;?",
+            "correct_answer":"U2",
+            "incorrect_answers":[
+                "Radiohead",
+                "Coldplay",
+                "Bon Jovi"
+            ]
+        },
+        {
+            "category":"Entertainment: Music",
+            "type":"multiple",
+            "difficulty":"medium",
+            "question":"Which of these songs did Jimi Hendrix cover?",
+            "correct_answer":"All of these songs",
+            "incorrect_answers":[
+                "Sgt. Pepper&#039;s Lonely Hearts Club Band",
+                "All Along the Watchtower",
+                "House of the Rising Sun"
+            ]
+        },
+        {
+            "category":"Entertainment: Music",
+            "type":"multiple",
+            "difficulty":"medium",
+            "question":"Which of the following music bands is not from Finland?",
+            "correct_answer":"Sabaton",
+            "incorrect_answers":[
+                "Apocalyptica",
+                "Waltari",
+                "Lordi"
+            ]
+        },
+        {
+            "category":"Entertainment: Music",
+            "type":"multiple",
+            "difficulty":"hard",
+            "question":"Which band is the longest active band in the world with no breaks or line-up changes?",
+            "correct_answer":"U2",
+            "incorrect_answers":[
+                "Radiohead",
+                "Rush",
+                "Rolling Stones"
+            ]
+        },
+        {
+            "category":"Entertainment: Music",
+            "type":"multiple",
+            "difficulty":"hard",
+            "question":"In Kendrick Lamar&#039;s 2012 album, &quot;Good Kid, M.A.A.D City&quot;, the album&#039;s story takes place in which city?",
+            "correct_answer":"Compton",
+            "incorrect_answers":[
+                "Detroit",
+                "New York",
+                "Baltimore"
+            ]
+        },
+        {
+            "category":"Entertainment: Music",
+            "type":"multiple",
+            "difficulty":"hard",
+            "question":"This album, now considered to be one of the greatest of all time, was a commercial failure when it was released.",
+            "correct_answer":"The Velvet Underground and Nico",
+            "incorrect_answers":[
+                "Abbey Road",
+                "Led Zeppelin IV",
+                "Pet Sounds"
+            ]
+        },
+        {
+            "category":"Entertainment: Music",
+            "type":"multiple",
+            "difficulty":"hard",
+            "question":"Which company did the animation for Peter Gabriel&#039;s Video Sledgehammer (1986)?",
+            "correct_answer":"Aardman Animations",
+            "incorrect_answers":[
+                "HIT Entertainment",
+                "Illumination Entertainment",
+                "VIZ Media"
+            ]
+        },
+        {
+            "category":"Entertainment: Music",
+            "type":"multiple",
+            "difficulty":"hard",
+            "question":"What is the stage name of New Zealand singer Phillipa &quot;Pip&quot; Brown?",
+            "correct_answer":"Ladyhawke",
+            "incorrect_answers":[
+                "Lorde",
+                "Kesha",
+                "Anika Moa"
+            ]
+        },
+        {
+            "category":"Entertainment: Music",
+            "type":"multiple",
+            "difficulty":"hard",
+            "question":"Electronic artists Boys Noize and Skrillex have collaborated and released tracks under what name?",
+            "correct_answer":"Dog Blood",
+            "incorrect_answers":[
+                "Jack &Uuml;",
+                "What So Not",
+                "Noisia"
+            ]
+        },
+        {
+            "category":"Entertainment: Music",
+            "type":"multiple",
+            "difficulty":"hard",
+            "question":"Chino Moreno is the lead singer of which alternative metal band?",
+            "correct_answer":"Deftones",
+            "incorrect_answers":[
+                "Tool",
+                "Korn",
+                "Type O Negative"
+            ]
+        },
+        {
+            "category":"Entertainment: Music",
+            "type":"multiple",
+            "difficulty":"hard",
+            "question":"What song originally performed by The Bee Gees in 1978 had a cover version by Steps 20 years later?",
+            "correct_answer":"Tragedy",
+            "incorrect_answers":[
+                "Night Fever",
+                "Stayin&#039; Alive",
+                "You Should Be Dancing"
+            ]
+        },
+        {
+            "category":"Entertainment: Music",
+            "type":"multiple",
+            "difficulty":"hard",
+            "question":"Which of these artists did NOT feature in the fitfh studio album &quot;Humanz&quot; by British virtual band Gorillaz?",
+            "correct_answer":"Snoop Dogg",
+            "incorrect_answers":[
+                "Vince Staples",
+                "Pusha T",
+                "Danny Brown"
+            ]
+        },
+        {
+            "category":"Entertainment: Music",
+            "type":"multiple",
+            "difficulty":"hard",
+            "question":"When did the rapper Eazy-E die?",
+            "correct_answer":"March 26, 1995",
+            "incorrect_answers":[
+                "July 11, 1992",
+                "February 14, 1993",
+                "October 21, 1994"
+            ]
+        }
+    ]
+}
